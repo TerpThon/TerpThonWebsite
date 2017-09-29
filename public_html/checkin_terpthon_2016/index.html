@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+
+        <div class="container">
+<img class="img-responsive centered" src="//img.terpthon.org/header_imgs/transparent_rebrand_logo.gif" style="display:block;max-height:200px">
+<div class="centered typeahead-container">
+            <div id="last-checked"></div>
+            <input class="typeahead" type="text" placeholder="participant name">
+            <div id="counterDiv">Current Occupancy: <span id="counterSpan">fetching...</span></div>
+</div>
+        </div>
+        <div class="shadow" style="display:none;"></div>
+
+        <div class="profile loading" style="display:none;">
+            <p class="profile-option">Name: <span class="profile-suboption" id="name"></span></p>
+            <p class="profile-option">Email: <span class="profile-suboption" id="email"></span></p>
+            <p class="profile-option">Amount Raised: <span class="profile-suboption" id="amount_raised"></span></p>
+            <p class="profile-option">Shirt Size: <span class="profile-suboption" id="shirt_size"></span></p>
+            <p class="profile-option">Team: <span class="profile-suboption" id="team"></span></p>
+            <p class="profile-option">Dietary Restrictions: <span class="profile-suboption" id="health"></span></p>
+            <p class="profile-option"><span class="profile-suboption" id="message"></span></p>
+
+            <p class="btns">
+                <a href="#" class="button green signin_btn">Sign In (e)</a>
+                <a href="#" class="button black signout_btn">Sign out (x)</a>
+                <a href="#" class="button red back_btn">Back (b)</a>
+            </p>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+
+        <script src="js/vendor/typeahead.bundle.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

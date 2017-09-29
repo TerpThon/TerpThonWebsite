@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+
+        <div class="container">
+            <input class="typeahead" type="text" placeholder="dancer name">
+        </div>
+
+        <div class="shadow" style="display:none;"></div>
+
+        <div class="profile loading" style="display:none;">
+            <p>
+                <span class="name"></span>
+                <span class="signedin"> has signed in.</span>
+                <span class="signedout"> has signed out.</span>
+            </p>
+            <p class="email"></p>
+            <p>$<span class="total"></span></p>
+            <p class="team"></p>
+            <p class="shirt_size"></p>
+            <p class="signin_p">Signed in: <span class="signin_time"></span></p>
+            <p class="signout_p">Signed out: <span class="signout_time"></span></p>
+
+            <p class="btns">
+                <a href="#" class="button green signin_btn">Sign In (e)</a>
+                <a href="#" class="button black signout_btn">Sign Out (x)</a>
+                <a href="#" class="button red back_btn">Back (b)</a>
+            </p>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+
+        <script src="js/vendor/typeahead.bundle.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
