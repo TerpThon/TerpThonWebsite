@@ -1,4 +1,4 @@
- 
+
     <div class="container-fluid" >
       <footer>
         <div class="row">
@@ -8,9 +8,9 @@
               <li><a href="https://www.facebook.com/FTKTerpThon"><i class="footer fa fa-lg fa-facebook"></i></a></li>
               <li><a href="https://twitter.com/Terp_Thon"><i class="footer fa fa-lg fa-twitter"></i></a></li>
               <li><a href="https://www.instagram.com/terp_thon/"><i class="footer fa fa-lg fa-instagram"></i></a></li>
-              <li><a href="https://www.youtube.com/user/terpthonUMD"><i class="footer fa fa-lg fa-youtube"></i></a></li>  
+              <li><a href="https://www.youtube.com/user/terpthonUMD"><i class="footer fa fa-lg fa-youtube"></i></a></li>
               <li><a href="http://terpthon.tumblr.com/"><i class="footer fa fa-lg fa-tumblr"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/10051107?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1436753424027%2Ctas%3Aterp%20thon%20"><i class="footer fa fa-lg fa-linkedin"></i></a></li>                            
+              <li><a href="https://www.linkedin.com/company/10051107?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1436753424027%2Ctas%3Aterp%20thon%20"><i class="footer fa fa-lg fa-linkedin"></i></a></li>
             </ul>
           </center>
              <p> Benefiting </p>

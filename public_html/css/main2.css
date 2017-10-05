@@ -236,9 +236,41 @@ div.transbox_three_line_header_home
   margin-bottom: 15px;
 }
 
-.tab-content {
-  height: 2300px;
-  background-color: white;
+@media (min-width: 768px) {
+  .tab-content{
+    height: 1900px;
+    background-color: white;
+  }
+}
+@media (min-width: 1000px) {
+  .tab-content{
+    height: 1875px;
+    background-color: white;
+  }
+}
+@media (min-width: 1150px) {
+  .tab-content{
+    height: 1950px;
+  }
+}
+@media (min-width: 1300px) {
+  .tab-content{
+    height: 2000px;
+  }
+}
+@media (min-width: 1600px) {
+  .tab-content{
+    height: 2200px;
+  }
+}
+@media (min-width: 2000px) {
+  .tab-content{
+    height: 2300px;
+  }
+}
+
+.corp-2017, .hosp-2017 {
+  padding: 0 50px 0 50px !important;
 }
 
 .carousel-inner > .item > img {
@@ -256,12 +288,20 @@ sabon - body
 .content {
     background-color: #eeeeee;
     /* border-radius: 6px 6px 0 0; */
-    padding: 10px 40px;
+    padding: 10px 0 0 0;
     top: -30px;
     position: relative;
     text-align: center;
 }
 
+.header-2016 {
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.year-tabs {
+  margin-left: 40px;
+}
 /*
 * Miracle Children
 */
