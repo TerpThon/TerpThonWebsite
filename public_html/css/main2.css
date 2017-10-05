@@ -236,6 +236,11 @@ div.transbox_three_line_header_home
   margin-bottom: 15px;
 }
 
+.tab-content {
+  height: 2300px;
+  background-color: white;
+}
+
 .carousel-inner > .item > img {
   margin: 0 auto;
 }
