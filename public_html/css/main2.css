@@ -288,7 +288,7 @@ sabon - body
 .content {
     background-color: #eeeeee;
     /* border-radius: 6px 6px 0 0; */
-    padding: 10px 0 0 0;
+    padding: 10px 40px;
     top: -30px;
     position: relative;
     text-align: center;

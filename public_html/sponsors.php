@@ -17,6 +17,10 @@ include("includes/header.inc.php");
 	vertical-align: middle;
 }
 
+.content {
+	padding: 10px 0 0 0;
+}
+
 .text_logo{
 	text-align: center;
 	font-size: 60px;
