@@ -27,7 +27,7 @@ include("includes/header.inc.php");
 <a href="#BusinessInvolved" class="faq_scolling_link"><li>How can I involve my business with Terp Thon?</li></a>
 <a href="#BusinessBenefit" class="faq_scolling_link"><li>What can my business get out of Terp Thon?</li></a> -->
 <!--<a href="#Additional" class="faq_scolling_link"><li>I have a question not listed above.</li></a>-->
-<div style="text-align:center"> <b>For any additional questions, please email Kaiwei Hsu at <a href="mailto:executivedirector@terpthon.org">executivedirector@terpthon.org</b></a>
+<div style="text-align:center"> <b>For any additional questions, please email Bianca Fiore at <a href="mailto:executivedirector@terpthon.org">executivedirector@terpthon.org</b></a>
 </div>
 <br />
 
