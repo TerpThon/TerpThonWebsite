@@ -17,6 +17,10 @@ include("includes/header.inc.php");
 	vertical-align: middle;
 }
 
+.content {
+	padding: 10px 0 0 0;
+}
+
 .text_logo{
 	text-align: center;
 	font-size: 60px;
@@ -109,14 +113,14 @@ div.col-sm-2 > div {
 		<span>Phone: (516) 993-5907</span>
 	</div>
 
-	<ul class = "nav nav-tabs">
+	<ul class = "nav nav-tabs year-tabs">
 		<li class = "active"><a data-toggle="tab" href="#2017">2017</a></li>
 		<li><a data-toggle="tab" href="#2016">2016</a></li>
 	</ul>
 
 	<div class="tab-content">
 		<div id="2017" class="tab-pane fade in active">
-			<div class="col-sm-6" style="border-right: solid 4px black">
+			<div class="col-sm-6 corp-2017" style="border-right: solid 4px black">
 				<h2 class="centered" style="display:block;">Our Corporate Sponsors...</h2>
 				<br>
 				<div class="row">
@@ -222,7 +226,7 @@ div.col-sm-2 > div {
 				</div>
 			</div><br><br>
 		</div>
-		<div class="col-sm-6">
+		<div class="col-sm-6 hosp-2017">
 			<h2 class="centered" style="display:block;">Our Hospitality Sponsors...</h2>
 			<br>
 			<div class="row">
@@ -264,7 +268,7 @@ div.col-sm-2 > div {
 	</div>
 
 	<div id="2016" class="tab-pane fade in">
-		<h1 class="centered" style="display:block;">A Huge Thank You to the Generous Supporters of Terp Thon 2016!</h1>
+		<h1 class="centered header-2016" style="display:block;">A Huge Thank You to the Generous Supporters of Terp Thon 2016!</h1>
 		<br />
 
 		<h2 class="centered" style="display:block;">Our Corporate Sponsors...</h2>
