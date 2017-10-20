@@ -24,7 +24,7 @@ include("includes/header.inc.php");
 
 <center><h4>Join us for Life in Color 5K!<h4>
 		<h4> September 16th<h4>
-		<h4>10am - 3pm<h4>
+		<h4>10am - 1041923845210-975u81PMK<h4>
 		<h4>McKeldin Mall<h4><center>
 	<br><br>
 <div class="text1"><h4>
